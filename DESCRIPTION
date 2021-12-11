@@ -1,0 +1,15 @@
+Package: toolbelt
+Type: Package
+Title: R Toolbelt
+Version: 0.1.0
+Author: Richard Smith
+Maintainer: Richard Smith <richardmcsmith@gmail.com>
+Description: This is a collection of common functions I use, mostly when doing
+    EDA and quick data work.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports:
+    glue,
+    stringr
